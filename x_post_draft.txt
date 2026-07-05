@@ -1,0 +1,12 @@
+Strix AI: Deploy Your Own Autonomous AI Hacker Locally
+
+🔹 Streamlit UI – Visual pentesting dashboard
+🔹 Ollama – Fast, local Qwen 2.5 coder LLM
+🔹 Strix – Agentic security scanner
+🔹 RCE Exploit – Auto-generates exact PoCs
+
+Watch 🔥 the full video below 👇
+
+https://youtu.be/HEO0mTTBjsM
+
+#StrixAI #Ollama #LocalLLM #EthicalHacking

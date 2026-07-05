@@ -1,0 +1,8 @@
+*.gguf
+*.bin
+*.pt
+*.safetensors
+__pycache__/
+.venv/
+venv/
+strix_runs/
